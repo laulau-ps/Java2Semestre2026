@@ -1,3 +1,5 @@
+package faccat;
+
 import java.util.Scanner;
 
 public class Multiplicacao {
