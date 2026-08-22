@@ -1,3 +1,5 @@
+package faccat;
+
 import java.util.Scanner;
 
 public class Faccat_exer1_6 {
@@ -14,7 +16,7 @@ public class Faccat_exer1_6 {
         System.out.println("Informe a altura do triângulo:");
         float altura = coletaDados.nextFloat();
 
-        float area = (base * altura) / 2;
+        float area = base * altura / 2;
 
         System.out.println("A área do triângulo é = " + area);
     }

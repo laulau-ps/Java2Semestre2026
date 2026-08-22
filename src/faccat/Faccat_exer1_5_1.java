@@ -1,3 +1,5 @@
+package faccat;
+
 import java.util.Scanner;
 
 public class Faccat_exer1_5_1 {
